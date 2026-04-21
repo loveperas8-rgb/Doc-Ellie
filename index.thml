@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Lovely Mer Peras Icons</title>
+
+  <style>
+    body{
+      margin:0;
+      font-family:Arial, sans-serif;
+      background:#fff;
+    }
+
+    .title{
+      text-align:center;
+      font-size:40px;
+      font-weight:bold;
+      padding:40px 0;
+    }
+
+    iframe{
+      width:100%;
+      height:80vh;
+      border:none;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="title"> Lovely Mer Peras Icons</div>
+
+  <!-- load main content -->
+  <iframe src="main.html"></iframe>
+
+</body>
+</html>
